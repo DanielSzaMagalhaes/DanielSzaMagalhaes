@@ -2,7 +2,7 @@
 
 **`Ciência da Computação/Cibersegurança`**
 
-Me chamo Daniel Souza Magalhães, tenho 18 anos e sou de Belo Horizonte (MG). Concluí o ensino médio em 2025 no Colégio Cotemig, com o curso técnico em Tecnologia da Informação. Atualmente, estou cursando Ciência da Computação na PUCMG.
+Me chamo Daniel Souza Magalhães, tenho 18 anos e sou de Belo Horizonte (MG). Concluí o ensino médio em 2025 no Colégio Cotemig, com o curso técnico em Tecnologia da Informação.
 
 ---
 
